@@ -11,6 +11,7 @@ It provides ***REST APIs*** to *create, search, filter, update, delete,* and *su
 - ✅ Filter trips between start & end dates
 - ✅ Trip summary (total, min, max, average price)
 - ✅ DTO ↔ Entity mapping via Mapper layer
+- ✅ Custom Validations (e.g., date checks)
 - ✅ Global Exception Handling with @ControllerAdvice
 - ✅ Swagger (OpenAPI) Documentation
 - ✅ Unit Tests (JUnit + Mockito)
