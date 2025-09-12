@@ -79,7 +79,7 @@
 			<artifactId>spring-boot-starter-actuator</artifactId>
 		</dependency>
 
-		<!-- Lombok (version managed by Spring Boot parent) -->
+		<!-- Lombok to reduce boilerplate code reduction -->
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
